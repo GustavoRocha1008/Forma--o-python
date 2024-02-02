@@ -1,0 +1,1 @@
+#A lista ela tem capacitadade de armazena qualquer informação
